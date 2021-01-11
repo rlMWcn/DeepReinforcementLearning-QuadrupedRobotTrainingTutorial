@@ -1,4 +1,4 @@
-# DeepReinforcementLearning-QuadrupedRobotTrainingTutorial
+# Deep Reinforcement Learning - Quadruped Robot Training Tutorial
 
 To run this project, you should first clone the repository: https://github.com/ANYbotics/anymal_b_simple_description. </br>
 Put the files in the root path of this repository, start MATLAB, and open 'Anymal_B_example.prj' to check if you can load the project successfully.
