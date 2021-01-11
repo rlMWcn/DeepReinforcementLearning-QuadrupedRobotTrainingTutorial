@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="StartUp" Visible="0" Icon="" File="utility/initializeRobotParameters.m" Name="initializeRobotParameters">
+    <Extension Value="5a59f333-fc6f-4c82-991c-0c19a2b7a39e" Name="StartUpPrev" />
+</Info>
