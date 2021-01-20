@@ -5,6 +5,6 @@ initialHeight=0.58;
 joint.stiffness=0;
 joint.damping=8;
 
-gaitTable
+% gaitTable
 
 % open_system('anymalrobot')
